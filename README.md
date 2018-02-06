@@ -9,6 +9,6 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Notes
-data.table package is required
-Source run_analysis.R (It will download and extract UCI HAR Dataset)
-It will then produce a tidy dataset containing only the average of each variable for each activity and subject.
+* *data.table* package is required
+* Source *run_analysis.R* (It will download and extract UCI HAR Dataset). It will then produce a tidy dataset containing only the average of each variable for each activity and subject.
+* Refer to *CodeBook.md* for a detail explanation on how the code works
